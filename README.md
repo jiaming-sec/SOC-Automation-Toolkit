@@ -45,3 +45,16 @@ The **SOC Automation Toolkit** is a collection of scripts, playbooks, and integr
 - **CrowdStrike Falcon API** for EDR automation.
 - **Shodan API** for reconnaissance and asset discovery.
 - **AWS Security Hub** for cloud security automation.
+
+## 📁 Project Structure
+```plaintext
+SOC-Automation-Toolkit/
+│── scripts/              # Automation scripts for SOC workflows
+│── playbooks/            # Incident response playbooks
+│── integrations/         # API integrations with security tools
+│── logs/                 # Sample log files for testing
+│── docs/                 # Documentation and usage guides
+│── config/               # Configuration files (API keys, settings, etc.)
+│── requirements.txt      # Dependencies for Python scripts
+│── README.md             # Project overview and details
+```
