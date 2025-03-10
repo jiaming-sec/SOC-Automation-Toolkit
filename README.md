@@ -58,3 +58,8 @@ SOC-Automation-Toolkit/
 │── requirements.txt      # Dependencies for Python scripts
 │── README.md             # Project overview and details
 ```
+## 🛠️ Installation & Setup
+### Prerequisites
+- **Python 3.x**
+- **pip** package manager
+- API keys for integrated services (VirusTotal, MISP, etc.)
