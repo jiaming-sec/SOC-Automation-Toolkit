@@ -18,3 +18,11 @@ The **SOC Automation Toolkit** is a collection of scripts, playbooks, and integr
   - **MISP (Malware Information Sharing Platform)**
   - **Shodan API**
 - Correlate IOCs against real-time logs and alerts.
+
+### 🔥 SOC Playbooks & Automation
+- Predefined workflows for:
+  - **Phishing email triage**
+  - **Malware analysis automation**
+  - **Suspicious login investigation**
+  - **Insider threat detection**
+- Automated alert correlation and response.
