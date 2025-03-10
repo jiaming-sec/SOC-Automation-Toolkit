@@ -63,3 +63,10 @@ SOC-Automation-Toolkit/
 - **Python 3.x**
 - **pip** package manager
 - API keys for integrated services (VirusTotal, MISP, etc.)
+
+### Installation Steps
+1️⃣ **Clone this repository:**  
+```bash
+git clone https://github.com/jiaming-sec/SOC-Automation-Toolkit.git
+cd SOC-Automation-Toolkit
+```
