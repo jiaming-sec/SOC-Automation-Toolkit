@@ -26,3 +26,9 @@ The **SOC Automation Toolkit** is a collection of scripts, playbooks, and integr
   - **Suspicious login investigation**
   - **Insider threat detection**
 - Automated alert correlation and response.
+
+### 📊 SIEM & EDR/XDR Automation
+- **SIEM Integration**: Splunk, ELK Stack, Microsoft Sentinel.
+- **Endpoint Security Automation**: CrowdStrike, SentinelOne, Palo Alto Cortex XDR.
+- **Firewall & IDS/IPS Integration**: Palo Alto, Cisco Firepower, Suricata.
+- **Email Security Automation**: Microsoft Defender for O365, Proofpoint.
