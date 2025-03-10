@@ -39,3 +39,9 @@ The **SOC Automation Toolkit** is a collection of scripts, playbooks, and integr
   - Attachments
   - Embedded URLs
 - Automated sandbox detonation and reputation analysis.
+
+### ⚙️ API Integrations
+- **Splunk API** for automated log queries and alerting.
+- **CrowdStrike Falcon API** for EDR automation.
+- **Shodan API** for reconnaissance and asset discovery.
+- **AWS Security Hub** for cloud security automation.
