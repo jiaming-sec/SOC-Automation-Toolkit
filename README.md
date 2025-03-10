@@ -32,3 +32,10 @@ The **SOC Automation Toolkit** is a collection of scripts, playbooks, and integr
 - **Endpoint Security Automation**: CrowdStrike, SentinelOne, Palo Alto Cortex XDR.
 - **Firewall & IDS/IPS Integration**: Palo Alto, Cisco Firepower, Suricata.
 - **Email Security Automation**: Microsoft Defender for O365, Proofpoint.
+
+### 📩 Email & Phishing Analysis
+- Extract and analyze:
+  - Email headers
+  - Attachments
+  - Embedded URLs
+- Automated sandbox detonation and reputation analysis.
