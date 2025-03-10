@@ -1,14 +1,10 @@
+# 📌 SOC Automation Toolkit
 
-# 🛠 SOC Automation Toolkit  
+## 🚀 Overview
+The **SOC Automation Toolkit** is a collection of scripts, playbooks, and integrations designed to **enhance the efficiency of Security Operations Centers (SOCs)** by automating repetitive tasks, improving threat detection, and accelerating incident response. This toolkit enables SOC teams to automate their workflows, reduce alert fatigue, and improve investigation accuracy.
 
-📌 **Automating SOC operations with Python & PowerShell**  
-
-## 🔍 Features
-✅ **IOC Extraction** from log files  
-✅ **VirusTotal API Lookup** for threat intelligence  
-✅ **Splunk Query Automation**  
-
-## 🚀 Setup  
-1. Clone the repo:  
-   ```sh
-   git clone https://github.com/jiamingqu/SOC-Automation-Toolkit.git
+### ✨ Key Benefits
+- **Faster Incident Response**: Automate analysis and response actions to reduce MTTR.
+- **Reduced Alert Fatigue**: Filter and enrich security alerts to focus on critical threats.
+- **Enhanced Threat Detection**: Correlate data across multiple security platforms for deeper insights.
+- **Seamless Integration**: Easily connect with SIEMs, EDRs, firewalls, and other security tools.
