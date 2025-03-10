@@ -70,3 +70,7 @@ SOC-Automation-Toolkit/
 git clone https://github.com/jiaming-sec/SOC-Automation-Toolkit.git
 cd SOC-Automation-Toolkit
 ```
+2️⃣ **Install dependencies:**  
+```bash
+pip install -r requirements.txt
+```
