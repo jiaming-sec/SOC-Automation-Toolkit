@@ -95,3 +95,9 @@ python scripts/threat_intelligence.py --ioc 8.8.8.8 --service virustotal
 - Validate user input to prevent injection attacks.
 - Implement logging and monitoring for script executions.
 - Follow **MITRE ATT&CK framework** for response automation.
+
+## 📝 Contributing
+Contributions are welcome! You can:
+📌 Submit **issues** for feature requests or bug reports.  
+📌 Fork the repo, create a new branch, and open a **pull request (PR)**.  
+📌 Share automation ideas and improvements!  
