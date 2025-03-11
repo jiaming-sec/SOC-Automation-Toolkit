@@ -90,3 +90,8 @@ python playbooks/email_analysis.py --email suspicious@phishing.com
 ```bash
 python scripts/threat_intelligence.py --ioc 8.8.8.8 --service virustotal
 ```
+## 🔒 Security Considerations
+- Store API keys securely using `.env` or **HashiCorp Vault**.
+- Validate user input to prevent injection attacks.
+- Implement logging and monitoring for script executions.
+- Follow **MITRE ATT&CK framework** for response automation.
