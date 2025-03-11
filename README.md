@@ -86,3 +86,7 @@ Run an automation playbook:
 ```bash
 python playbooks/email_analysis.py --email suspicious@phishing.com
 ```
+### Example: **Automating Threat Intelligence Lookup**
+```bash
+python scripts/threat_intelligence.py --ioc 8.8.8.8 --service virustotal
+```
