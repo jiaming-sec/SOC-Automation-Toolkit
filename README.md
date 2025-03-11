@@ -75,3 +75,14 @@ cd SOC-Automation-Toolkit
 pip install -r requirements.txt
 ```
 3️⃣ **Configure API keys** in `.env` or `config/config.yaml`.
+
+## 🚀 Usage
+### Running a script
+Execute a specific script using:
+```bash
+python scripts/threat_intelligence.py --ioc 192.168.1.1
+```
+Run an automation playbook:
+```bash
+python playbooks/email_analysis.py --email suspicious@phishing.com
+```
