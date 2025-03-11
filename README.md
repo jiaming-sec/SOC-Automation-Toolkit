@@ -74,3 +74,4 @@ cd SOC-Automation-Toolkit
 ```bash
 pip install -r requirements.txt
 ```
+3️⃣ **Configure API keys** in `.env` or `config/config.yaml`.
